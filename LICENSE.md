@@ -1,4 +1,4 @@
-# 
+# Elite MEV arbitrage bot plugins for Mac OS | Advanced MEV arbitrage bot plugins for PC Windows. Featuring liquidity pool scanning and private key management — optimized for maximum performance on every platform.
 
 
 
